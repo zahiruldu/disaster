@@ -18,16 +18,13 @@ This application is to manage and help the disaster prone peoples who are suffer
 We have used the following technologies to develop this application:
 
 
-1.PHP
-
-2.MYSQLi
-
-3.HTML, HTML5
-
+1. PHP
+2. MYSQLi
+3. HTML, HTML5
 4. CSS, CSS3
-
 5. Bootstrap
+6. JQuery
 
-6.JQuery 
+
 
 
